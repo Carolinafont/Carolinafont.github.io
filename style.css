@@ -1,0 +1,84 @@
+body {
+  font-family: "Montserrat";
+  font-size: 20px;
+  background: white;
+  color: black;
+}
+
+.parf {
+  position: absolute;
+  left: 1280px;
+  margin: 260px 100px 10px 10px;
+  border: 15px;
+  padding: 0px;
+  width: 300px;
+  background-color: ;
+  text-align: center;
+  top: 20%;
+}
+
+.bio {
+  position: absolute;
+  left: 1240px;
+  margin: 100px 0px 10px 0px;
+  border: 0px;
+  padding: 0px;
+  width: 410px;
+  font-size: 30px;
+  background-color: aqua;
+  text-align: center;
+  top: 20%;
+  
+}
+.title {
+  position: absolute;
+  margin: 0px -140px;
+  right: 124px;
+  width: 100%;
+  font-size: 50px;
+  padding: 30px 30px;
+  text-align: center;
+  font-family: "Montserrat";
+  background-color: #FF1493;
+}
+.logo {
+  font-size: 25px;
+  font-weight: bold;
+  position: absolute;
+  left: 50px;
+  margin: 0px 0px 0px 0px;
+  border: 15px;
+  padding: 7px;
+  width: auto;
+  height: 90px;
+}
+.header {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+  background-color: #FF1493;
+}
+.row {
+  display: table;
+  clear: both;
+  right: 900px;
+  padding: 50px;
+}
+.im {
+  height:350px;
+  width: 350px;
+  padding: 60px;
+  left: 900px;
+  margin-top: 100px;
+}
+.link {
+  text-align: center;
+}
+
+
+ 
